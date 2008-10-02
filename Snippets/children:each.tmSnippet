@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;r:children:each${1:${2: offset="${3:number}"}${4: limit="${5:number}"}${6: by="${7:attribute}"}${8: order="${9:asc_or_desc}"}${10: status="${11:page_status}"}}&gt;
+  ${12:}
+&lt;/r:children:each&gt;
+</string>
+	<key>name</key>
+	<string>children:each</string>
+	<key>scope</key>
+	<string>text.html.radius</string>
+	<key>tabTrigger</key>
+	<string>ce</string>
+	<key>uuid</key>
+	<string>3E672C21-84B0-4747-B106-FDEFD5705404</string>
+</dict>
+</plist>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;r:attachment:link name="${1:attachment_file_name}"&gt;${2:display_text}&lt;/r:attachment:link&gt;
+</string>
+	<key>name</key>
+	<string>attachment:link</string>
+	<key>scope</key>
+	<string>text.html.radius</string>
+	<key>tabTrigger</key>
+	<string>atl</string>
+	<key>uuid</key>
+	<string>674B3390-5D97-4685-B1EC-BECE1D56C867</string>
+</dict>
+</plist>
