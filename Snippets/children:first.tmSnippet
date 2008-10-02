@@ -3,15 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;r:attachment:link name="${1:attachment_file_name}"&gt;${2:display_text}&lt;/r:attachment:link&gt;
+	<string>&lt;r:children:first /&gt;
 </string>
 	<key>name</key>
-	<string>attachment:link</string>
+	<string>children:first</string>
 	<key>scope</key>
 	<string>text.html.radius</string>
 	<key>tabTrigger</key>
-	<string>al</string>
+	<string>cf</string>
 	<key>uuid</key>
-	<string>674B3390-5D97-4685-B1EC-BECE1D56C867</string>
+	<string>E63DC7C9-4684-416F-9C7C-892B38635FBD</string>
 </dict>
 </plist>
