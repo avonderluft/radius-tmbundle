@@ -3,17 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;r:children&gt;
-  ${0:}
-&lt;/r:children&gt;
+	<string>&lt;r:cycle values="${1:comma_delimited_values}" ${2:${3:reset="${4:true_or_false}"} ${5:name="${6:cycle_name}"}}/&gt;
 </string>
 	<key>name</key>
-	<string>children</string>
+	<string>cycle</string>
 	<key>scope</key>
 	<string>text.html.radius</string>
 	<key>tabTrigger</key>
-	<string>c</string>
+	<string>cy</string>
 	<key>uuid</key>
-	<string>2C175F42-6031-413A-AEEC-4CB6D3E3A4D1</string>
+	<string>21C017D7-F963-479A-A7F7-1560D58B09BB</string>
 </dict>
 </plist>

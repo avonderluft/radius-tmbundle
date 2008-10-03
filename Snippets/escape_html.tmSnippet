@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;r:children&gt;
+	<string>&lt;r:escape_html&gt;
   ${0:}
-&lt;/r:children&gt;
+&lt;/r:escape_html&gt;
 </string>
 	<key>name</key>
-	<string>children</string>
+	<string>escape_html</string>
 	<key>scope</key>
 	<string>text.html.radius</string>
 	<key>tabTrigger</key>
-	<string>c</string>
+	<string>eh</string>
 	<key>uuid</key>
-	<string>2C175F42-6031-413A-AEEC-4CB6D3E3A4D1</string>
+	<string>1628867E-3BB8-4B5B-8011-30E29D3FBB81</string>
 </dict>
 </plist>

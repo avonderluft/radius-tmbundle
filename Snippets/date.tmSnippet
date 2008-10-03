@@ -3,17 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;r:children&gt;
-  ${0:}
-&lt;/r:children&gt;
+	<string>&lt;r:date ${1:${2:format="${3:date_format}"} ${4:for="${5:date_field}"}}/&gt;
 </string>
 	<key>name</key>
-	<string>children</string>
+	<string>date</string>
 	<key>scope</key>
 	<string>text.html.radius</string>
 	<key>tabTrigger</key>
-	<string>c</string>
+	<string>d</string>
 	<key>uuid</key>
-	<string>2C175F42-6031-413A-AEEC-4CB6D3E3A4D1</string>
+	<string>FA30457C-06F6-420F-A477-ED14CB73A8E1</string>
 </dict>
 </plist>
