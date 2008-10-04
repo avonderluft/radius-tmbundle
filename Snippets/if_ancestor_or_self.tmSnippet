@@ -3,16 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;r:children:last&gt;
+	<string>&lt;r:if_ancestor_or_self&gt;
   ${0:}
-&lt;/r:children:last&gt;</string>
+&lt;/r:if_ancestor_or_self&gt;</string>
 	<key>name</key>
-	<string>children:last</string>
+	<string>if_ancestor_or_self</string>
 	<key>scope</key>
 	<string>text.html.radius</string>
 	<key>tabTrigger</key>
-	<string>cl</string>
+	<string>iaos</string>
 	<key>uuid</key>
-	<string>B101B4FF-E542-4A93-BECA-8DB8E5AB3FC1</string>
+	<string>5ECE9B8A-B567-45E0-9809-A663191CD12E</string>
 </dict>
 </plist>

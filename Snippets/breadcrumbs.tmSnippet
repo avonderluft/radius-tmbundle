@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;r:breadcrumb${5:s} ${1:separator="${2:separator_string}" ${3:nolinks="${4:true_or_false}"}}/&gt;
+	<string>&lt;r:breadcrumb${5:s} ${1:separator="${2:separator_string}" ${3:nolinks="true"}}/&gt;
 </string>
 	<key>name</key>
 	<string>breadcrumb(s)</string>

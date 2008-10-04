@@ -5,8 +5,7 @@
 	<key>content</key>
 	<string>&lt;r:find url="${1:value_to_find}"&gt;
   ${0:}
-&lt;/r:find&gt;
-</string>
+&lt;/r:find&gt;</string>
 	<key>name</key>
 	<string>find</string>
 	<key>scope</key>

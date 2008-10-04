@@ -3,16 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;r:children:last&gt;
+	<string>&lt;r:if_children ${1:status="${2:page_status}}"&gt;
   ${0:}
-&lt;/r:children:last&gt;</string>
+&lt;/r:if_children&gt;</string>
 	<key>name</key>
-	<string>children:last</string>
+	<string>if_children</string>
 	<key>scope</key>
 	<string>text.html.radius</string>
 	<key>tabTrigger</key>
-	<string>cl</string>
+	<string>ic</string>
 	<key>uuid</key>
-	<string>B101B4FF-E542-4A93-BECA-8DB8E5AB3FC1</string>
+	<string>67BAB088-E04A-428E-AA7D-E3EA7C317390</string>
 </dict>
 </plist>

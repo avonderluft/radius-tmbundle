@@ -3,16 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;r:children:last&gt;
+	<string>&lt;r:if_content ${1:${2:part="${3:comma_delimited_part_names}"} ${4:inherit="true"} ${6:find="any"}}&gt;
   ${0:}
-&lt;/r:children:last&gt;</string>
+&lt;/r:if_content&gt;</string>
 	<key>name</key>
-	<string>children:last</string>
+	<string>if_content</string>
 	<key>scope</key>
 	<string>text.html.radius</string>
 	<key>tabTrigger</key>
-	<string>cl</string>
+	<string>ico</string>
 	<key>uuid</key>
-	<string>B101B4FF-E542-4A93-BECA-8DB8E5AB3FC1</string>
+	<string>9DBF4B7A-3162-45FE-811D-C62694BBF76F</string>
 </dict>
 </plist>

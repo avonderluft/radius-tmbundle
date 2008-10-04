@@ -3,8 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;r:children:first /&gt;
-</string>
+	<string>&lt;r:children:first&gt;
+  ${0:}
+&lt;/r:children:first&gt;</string>
 	<key>name</key>
 	<string>children:first</string>
 	<key>scope</key>

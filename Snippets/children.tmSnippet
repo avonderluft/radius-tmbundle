@@ -5,8 +5,7 @@
 	<key>content</key>
 	<string>&lt;r:children&gt;
   ${0:}
-&lt;/r:children&gt;
-</string>
+&lt;/r:children&gt;</string>
 	<key>name</key>
 	<string>children</string>
 	<key>scope</key>

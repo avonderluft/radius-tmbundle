@@ -5,8 +5,7 @@
 	<key>content</key>
 	<string>&lt;r:escape_html&gt;
   ${0:}
-&lt;/r:escape_html&gt;
-</string>
+&lt;/r:escape_html&gt;</string>
 	<key>name</key>
 	<string>escape_html</string>
 	<key>scope</key>
