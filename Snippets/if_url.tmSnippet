@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;r:if_url matches="${1:regexp}"${2: ignore_case="false"}&gt;
+  ${0:}
+&lt;/r:if_url&gt;</string>
+	<key>name</key>
+	<string>if_url</string>
+	<key>scope</key>
+	<string>text.html.radius</string>
+	<key>tabTrigger</key>
+	<string>iu</string>
+	<key>uuid</key>
+	<string>EE0CE982-ACF4-4093-A406-7E1902078B7B</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;r:header${1:${2: name="${3:header_name}"}${4: restart="${5:semi-colon_delimited_header_names}"}}&gt;
+  ${0:}
+&lt;/r:header&gt;</string>
+	<key>name</key>
+	<string>children:each:header</string>
+	<key>scope</key>
+	<string>text.html.radius</string>
+	<key>tabTrigger</key>
+	<string>ceh</string>
+	<key>uuid</key>
+	<string>90082C07-DEC2-483F-8A47-B51C6FD311E9</string>
+</dict>
+</plist>
