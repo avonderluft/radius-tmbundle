@@ -3,15 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;r:content ${1:${2:part="${3:part_name}"} ${4:inherit="${5:true_or_false}"} ${6:contextual="${7:true_or_false}"}}/&gt;
-</string>
+	<string>&lt;r:snippet name="${1:snippet_name}"&gt;${2:Content to send to snippet}&lt;/r:snippet&gt;</string>
 	<key>name</key>
-	<string>content</string>
+	<string>snippet w/ yield</string>
 	<key>scope</key>
 	<string>text.html.radius</string>
 	<key>tabTrigger</key>
-	<string>c</string>
+	<string>sy</string>
 	<key>uuid</key>
-	<string>DA486B3B-0BBF-4769-B1A1-AD657E64DF15</string>
+	<string>E673DA86-DA4E-4EBB-B11E-BDC0498418C3</string>
 </dict>
 </plist>

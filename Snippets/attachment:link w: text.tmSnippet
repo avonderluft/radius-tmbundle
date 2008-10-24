@@ -3,15 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;r:content ${1:${2:part="${3:part_name}"} ${4:inherit="${5:true_or_false}"} ${6:contextual="${7:true_or_false}"}}/&gt;
+	<string>&lt;r:attachment:link name="${1:attachment_file_name}"&gt;${2:Link Text}&lt;/r:atttachment:link&gt;
 </string>
 	<key>name</key>
-	<string>content</string>
+	<string>attachment:link w/ text</string>
 	<key>scope</key>
 	<string>text.html.radius</string>
 	<key>tabTrigger</key>
-	<string>c</string>
+	<string>alt</string>
 	<key>uuid</key>
-	<string>DA486B3B-0BBF-4769-B1A1-AD657E64DF15</string>
+	<string>83B9C3D6-C69B-4866-8FD4-19A1B0A45EB5</string>
 </dict>
 </plist>

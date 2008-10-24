@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;r:attachment:each${1:${2: order="${3:asc|desc}"}${4: by="${5:filename|size|created_at|...}"}${6: limit="${7:0}"}${8: offset="${9:0}"}${10: extensions="${11:png|pdf|doc}"}}&gt;
+	${12:...}
+&lt;/r:attachment&gt;$0</string>
+	<key>name</key>
+	<string>attachment:each</string>
+	<key>scope</key>
+	<string>text.html.radius</string>
+	<key>tabTrigger</key>
+	<string>ae</string>
+	<key>uuid</key>
+	<string>536CC2C0-2647-41E7-8FF0-C9F53EB4D551</string>
+</dict>
+</plist>

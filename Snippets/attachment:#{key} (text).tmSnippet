@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;r:attachment:${1:\:short_title|\:short_description|\:short_filename} name="${2:attachment_file_name}"${3: length="${4:number_of_characters}"}${5: suffix="${6:text_for_truncation}";} /&gt;</string>
+	<key>name</key>
+	<string>attachment:#{key} (text)</string>
+	<key>scope</key>
+	<string>text.html.radius</string>
+	<key>tabTrigger</key>
+	<string>ak</string>
+	<key>uuid</key>
+	<string>2140EDB8-6B6F-4275-BEA0-9EE86E042C51</string>
+</dict>
+</plist>

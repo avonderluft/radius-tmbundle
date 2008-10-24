@@ -3,15 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;r:content ${1:${2:part="${3:part_name}"} ${4:inherit="${5:true_or_false}"} ${6:contextual="${7:true_or_false}"}}/&gt;
+	<string>&lt;r:attachment:date name="${1:attachment_file_name}"${2: format="${3:ruby_strftime_syntax}"} /&gt;
 </string>
 	<key>name</key>
-	<string>content</string>
+	<string>attachment:date</string>
 	<key>scope</key>
 	<string>text.html.radius</string>
 	<key>tabTrigger</key>
-	<string>c</string>
+	<string>ad</string>
 	<key>uuid</key>
-	<string>DA486B3B-0BBF-4769-B1A1-AD657E64DF15</string>
+	<string>F2E45EAF-90CD-4C3D-BD53-0AF1B303C6F0</string>
 </dict>
 </plist>

@@ -3,15 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;r:content ${1:${2:part="${3:part_name}"} ${4:inherit="${5:true_or_false}"} ${6:contextual="${7:true_or_false}"}}/&gt;
-</string>
+	<string>&lt;r:unless_self&gt;
+  ${0:}
+&lt;/r:unless_self&gt;</string>
 	<key>name</key>
-	<string>content</string>
+	<string>unless_self</string>
 	<key>scope</key>
 	<string>text.html.radius</string>
 	<key>tabTrigger</key>
-	<string>c</string>
+	<string>us</string>
 	<key>uuid</key>
-	<string>DA486B3B-0BBF-4769-B1A1-AD657E64DF15</string>
+	<string>B95EE38B-70D4-4F74-8655-4105E14B7570</string>
 </dict>
 </plist>
