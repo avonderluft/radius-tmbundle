@@ -3,15 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;r:content ${1:${2:part="${3:part_name}"} ${4:inherit="${5:true_or_false}"} ${6:contextual="${7:true_or_false}"}}/&gt;
-</string>
+	<string>&lt;r:if_attachments${1:${2: min_count="${3:1}"}${4: extensions="${5:doc|pdf"}}}&gt;
+	${6:...}
+&lt;/r:if_attachments&gt;$0</string>
 	<key>name</key>
-	<string>content</string>
+	<string>if_attachments</string>
 	<key>scope</key>
 	<string>text.html.radius</string>
 	<key>tabTrigger</key>
-	<string>c</string>
+	<string>ia</string>
 	<key>uuid</key>
-	<string>DA486B3B-0BBF-4769-B1A1-AD657E64DF15</string>
+	<string>E7A4669E-01C3-4DA8-A5F1-7D4EA1DC0883</string>
 </dict>
 </plist>

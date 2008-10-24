@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;r:navigation urls="${1:Link Text}: ${2:url} | ${3:Link Text}: ${4:url}${5: |${6:}}"&gt;
+${7:	&lt;r:normal&gt;${8:&lt;r:link /&gt;}&lt;/r:normal&gt;}
+${9:	&lt;r:here&gt;${10:&lt;r:link class="here" /&gt;}&lt;/r:here&gt;}
+${11:	&lt;r:selected&gt;${12:&lt;r:link class="selected" /&gt;}&lt;/r:selected&gt;}
+${13:	&lt;r:between&gt;${14: &amp;bull; }&lt;/r:between&gt;}
+&lt;/r:navigation&gt;$0</string>
+	<key>name</key>
+	<string>navigation</string>
+	<key>scope</key>
+	<string>text.html.radius</string>
+	<key>tabTrigger</key>
+	<string>n</string>
+	<key>uuid</key>
+	<string>9F79AD3E-DAFE-4DEA-AC3B-DD9A715CB45D</string>
+</dict>
+</plist>

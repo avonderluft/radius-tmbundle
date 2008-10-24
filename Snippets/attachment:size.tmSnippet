@@ -3,15 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;r:content ${1:${2:part="${3:part_name}"} ${4:inherit="${5:true_or_false}"} ${6:contextual="${7:true_or_false}"}}/&gt;
+	<string>&lt;r:attachment:size name="${1:attachment_file_name}"${2: units="${3:bytes|kilobytes|megabytes|gigabytes}"} /&gt;
 </string>
 	<key>name</key>
-	<string>content</string>
+	<string>attachment:size</string>
 	<key>scope</key>
 	<string>text.html.radius</string>
 	<key>tabTrigger</key>
-	<string>c</string>
+	<string>as</string>
 	<key>uuid</key>
-	<string>DA486B3B-0BBF-4769-B1A1-AD657E64DF15</string>
+	<string>A6057FA3-968A-492D-ADEE-592E8DCFB623</string>
 </dict>
 </plist>

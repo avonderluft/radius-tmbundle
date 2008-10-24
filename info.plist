@@ -2,6 +2,125 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>C1A805B8-8970-4DFC-90C8-3A9D6E531369</string>
+			<string>099ABC0D-4D51-4E09-82C4-BA906B27E8B4</string>
+			<string>0AEF739B-EF21-4948-8CC4-385BF9403B8A</string>
+			<string>A6C2580E-1B46-475D-8E5F-BED054E4ACBF</string>
+			<string>------------------------------------</string>
+			<string>EF7A08BF-99A7-48AE-80AD-2BE60AB465C8</string>
+			<string>------------------------------------</string>
+			<string>14751955-24F6-4973-BFF5-38BC4E0B3CF3</string>
+			<string>F3DDA257-66EB-42B2-AB7A-B59A0C2974F5</string>
+			<string>21C017D7-F963-479A-A7F7-1560D58B09BB</string>
+			<string>1628867E-3BB8-4B5B-8011-30E29D3FBB81</string>
+			<string>1E491724-5752-4B54-A62E-40E7686D7771</string>
+			<string>E673DA86-DA4E-4EBB-B11E-BDC0498418C3</string>
+			<string>75C9F0AE-BA2E-44D6-B6C7-0A534623E1CB</string>
+			<string>------------------------------------</string>
+			<string>FA30457C-06F6-420F-A477-ED14CB73A8E1</string>
+			<string>09D06E1A-2DEA-43D3-96D0-5091E9C53946</string>
+		</array>
+		<key>submenus</key>
+		<dict>
+			<key>099ABC0D-4D51-4E09-82C4-BA906B27E8B4</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>3E672C21-84B0-4747-B106-FDEFD5705404</string>
+					<string>A2AF43EF-53C3-4D2E-9836-959A2F959977</string>
+					<string>90082C07-DEC2-483F-8A47-B51C6FD311E9</string>
+					<string>94FFA7DB-8E09-4569-BB93-FFED926C4F81</string>
+					<string>E63DC7C9-4684-416F-9C7C-892B38635FBD</string>
+					<string>B101B4FF-E542-4A93-BECA-8DB8E5AB3FC1</string>
+					<string>2C175F42-6031-413A-AEEC-4CB6D3E3A4D1</string>
+				</array>
+				<key>name</key>
+				<string>Children</string>
+			</dict>
+			<key>0AEF739B-EF21-4948-8CC4-385BF9403B8A</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>5ECE9B8A-B567-45E0-9809-A663191CD12E</string>
+					<string>67BAB088-E04A-428E-AA7D-E3EA7C317390</string>
+					<string>9DBF4B7A-3162-45FE-811D-C62694BBF76F</string>
+					<string>5A5BA1C7-AEC2-4FFB-A611-701187F0BA77</string>
+					<string>2C242363-AF38-4A51-AB5A-5C6E0685EC51</string>
+					<string>A86BF2F2-CEFA-4675-96B9-63F95A2019F8</string>
+					<string>EE0CE982-ACF4-4093-A406-7E1902078B7B</string>
+					<string>A3075FA7-6CA3-42DC-828E-290C652B4AE4</string>
+					<string>EC2E16A7-BDE0-4307-8B61-AAE12BA1CCF6</string>
+					<string>162D31A9-C80A-43E8-8068-00A57E28F8F1</string>
+					<string>D3B3986E-C660-4869-BD84-16E49F73E7A3</string>
+					<string>D4E63E4B-7B5E-4718-B45A-F1D5C73897EF</string>
+					<string>B95EE38B-70D4-4F74-8655-4105E14B7570</string>
+					<string>48B5907B-A366-4803-9242-A8D876D999E9</string>
+					<string>6883DDD7-4500-4E4A-96A2-01FDFFC69129</string>
+					<string>C9053F1F-2787-4EB0-8E68-90E8874E3861</string>
+				</array>
+				<key>name</key>
+				<string>Conditional</string>
+			</dict>
+			<key>A6C2580E-1B46-475D-8E5F-BED054E4ACBF</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>9F79AD3E-DAFE-4DEA-AC3B-DD9A715CB45D</string>
+					<string>CFCD6EAE-D414-46BC-BA5E-43B4A627BFF7</string>
+					<string>EF28E7E5-1DF8-428F-9978-5BACE447040B</string>
+					<string>1498356E-4A9C-4AE8-8E57-1E570BC335DB</string>
+					<string>5F9F66D1-4123-48C4-8E17-4F072E88BA95</string>
+					<string>A726B263-67E2-4A7C-8A11-AF6236C6C75E</string>
+				</array>
+				<key>name</key>
+				<string>Navigation</string>
+			</dict>
+			<key>C1A805B8-8970-4DFC-90C8-3A9D6E531369</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>DA486B3B-0BBF-4769-B1A1-AD657E64DF15</string>
+					<string>A901E67F-4AE3-4811-A110-97D591477111</string>
+					<string>053C15C8-ED87-40D6-A908-E844A8390474</string>
+					<string>D6013D1E-E9F2-4518-B5C7-9A52706E03CB</string>
+					<string>4639DFA1-CE6E-4A6D-A764-B6C3332EAD1E</string>
+					<string>5F9CDF99-D987-4C56-97E4-4DE3C42705FA</string>
+					<string>1A38F5D6-D904-4E48-BF95-322869155F5E</string>
+					<string>92728194-2C7F-4775-AD16-A6DEBF99D628</string>
+					<string>0938DE98-054E-4DE3-B155-B20C35299BB9</string>
+					<string>B4240637-6134-4A67-B0C0-AF3A2742C25F</string>
+					<string>1EB3C6B3-62E5-453E-A788-5D50708BC978</string>
+				</array>
+				<key>name</key>
+				<string>Page</string>
+			</dict>
+			<key>EF7A08BF-99A7-48AE-80AD-2BE60AB465C8</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>0CD94EE2-83DB-41F6-BE10-88EBE25F195E</string>
+					<string>E7A4669E-01C3-4DA8-A5F1-7D4EA1DC0883</string>
+					<string>536CC2C0-2647-41E7-8FF0-C9F53EB4D551</string>
+					<string>81D8DDBB-AD2C-498A-9756-172124F14811</string>
+					<string>8051521C-4B3A-4AF2-9648-32E0E7C5E6A2</string>
+					<string>12F35E1C-F3BC-4442-B0E6-1296556EE2AE</string>
+					<string>674B3390-5D97-4685-B1EC-BECE1D56C867</string>
+					<string>597C6E72-209C-4820-AB12-C26C181706C6</string>
+					<string>F2E45EAF-90CD-4C3D-BD53-0AF1B303C6F0</string>
+					<string>A6057FA3-968A-492D-ADEE-592E8DCFB623</string>
+					<string>A898492B-2142-4D1C-BD14-6FAE49115501</string>
+					<string>2140EDB8-6B6F-4275-BEA0-9EE86E042C51</string>
+					<string>2FE62493-3C40-4BE5-B15C-5D0CC2C922D3</string>
+				</array>
+				<key>name</key>
+				<string>Page Attachments</string>
+			</dict>
+		</dict>
+	</dict>
 	<key>name</key>
 	<string>Radius</string>
 	<key>ordering</key>
@@ -16,11 +135,32 @@
 		<string>90082C07-DEC2-483F-8A47-B51C6FD311E9</string>
 		<string>E63DC7C9-4684-416F-9C7C-892B38635FBD</string>
 		<string>B101B4FF-E542-4A93-BECA-8DB8E5AB3FC1</string>
+		<string>14751955-24F6-4973-BFF5-38BC4E0B3CF3</string>
+		<string>F3DDA257-66EB-42B2-AB7A-B59A0C2974F5</string>
 		<string>DA486B3B-0BBF-4769-B1A1-AD657E64DF15</string>
 		<string>21C017D7-F963-479A-A7F7-1560D58B09BB</string>
 		<string>FA30457C-06F6-420F-A477-ED14CB73A8E1</string>
 		<string>1628867E-3BB8-4B5B-8011-30E29D3FBB81</string>
 		<string>1498356E-4A9C-4AE8-8E57-1E570BC335DB</string>
+		<string>CFCD6EAE-D414-46BC-BA5E-43B4A627BFF7</string>
+		<string>EF28E7E5-1DF8-428F-9978-5BACE447040B</string>
+		<string>4639DFA1-CE6E-4A6D-A764-B6C3332EAD1E</string>
+		<string>5F9CDF99-D987-4C56-97E4-4DE3C42705FA</string>
+		<string>1A38F5D6-D904-4E48-BF95-322869155F5E</string>
+		<string>92728194-2C7F-4775-AD16-A6DEBF99D628</string>
+		<string>9F79AD3E-DAFE-4DEA-AC3B-DD9A715CB45D</string>
+		<string>C9053F1F-2787-4EB0-8E68-90E8874E3861</string>
+		<string>1EB3C6B3-62E5-453E-A788-5D50708BC978</string>
+		<string>5F9F66D1-4123-48C4-8E17-4F072E88BA95</string>
+		<string>6883DDD7-4500-4E4A-96A2-01FDFFC69129</string>
+		<string>09D06E1A-2DEA-43D3-96D0-5091E9C53946</string>
+		<string>0938DE98-054E-4DE3-B155-B20C35299BB9</string>
+		<string>1E491724-5752-4B54-A62E-40E7686D7771</string>
+		<string>E673DA86-DA4E-4EBB-B11E-BDC0498418C3</string>
+		<string>B4240637-6134-4A67-B0C0-AF3A2742C25F</string>
+		<string>A901E67F-4AE3-4811-A110-97D591477111</string>
+		<string>053C15C8-ED87-40D6-A908-E844A8390474</string>
+		<string>75C9F0AE-BA2E-44D6-B6C7-0A534623E1CB</string>
 		<string>5ECE9B8A-B567-45E0-9809-A663191CD12E</string>
 		<string>67BAB088-E04A-428E-AA7D-E3EA7C317390</string>
 		<string>9DBF4B7A-3162-45FE-811D-C62694BBF76F</string>
@@ -28,7 +168,26 @@
 		<string>2C242363-AF38-4A51-AB5A-5C6E0685EC51</string>
 		<string>A86BF2F2-CEFA-4675-96B9-63F95A2019F8</string>
 		<string>EE0CE982-ACF4-4093-A406-7E1902078B7B</string>
+		<string>A3075FA7-6CA3-42DC-828E-290C652B4AE4</string>
+		<string>EC2E16A7-BDE0-4307-8B61-AAE12BA1CCF6</string>
+		<string>162D31A9-C80A-43E8-8068-00A57E28F8F1</string>
+		<string>D3B3986E-C660-4869-BD84-16E49F73E7A3</string>
+		<string>D4E63E4B-7B5E-4718-B45A-F1D5C73897EF</string>
+		<string>B95EE38B-70D4-4F74-8655-4105E14B7570</string>
+		<string>48B5907B-A366-4803-9242-A8D876D999E9</string>
+		<string>0CD94EE2-83DB-41F6-BE10-88EBE25F195E</string>
+		<string>E7A4669E-01C3-4DA8-A5F1-7D4EA1DC0883</string>
+		<string>536CC2C0-2647-41E7-8FF0-C9F53EB4D551</string>
+		<string>81D8DDBB-AD2C-498A-9756-172124F14811</string>
 		<string>674B3390-5D97-4685-B1EC-BECE1D56C867</string>
+		<string>597C6E72-209C-4820-AB12-C26C181706C6</string>
+		<string>8051521C-4B3A-4AF2-9648-32E0E7C5E6A2</string>
+		<string>F2E45EAF-90CD-4C3D-BD53-0AF1B303C6F0</string>
+		<string>A6057FA3-968A-492D-ADEE-592E8DCFB623</string>
+		<string>12F35E1C-F3BC-4442-B0E6-1296556EE2AE</string>
+		<string>A898492B-2142-4D1C-BD14-6FAE49115501</string>
+		<string>2140EDB8-6B6F-4275-BEA0-9EE86E042C51</string>
+		<string>2FE62493-3C40-4BE5-B15C-5D0CC2C922D3</string>
 		<string>997ADD5D-CB48-4CBB-B3BB-55506F205C52</string>
 	</array>
 	<key>uuid</key>
