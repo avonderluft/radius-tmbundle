@@ -24,13 +24,19 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>(r:[-_a-zA-Z0-9:]+)</string>
+			<string>(r:.[-_a-zA-Z0-9:]+)</string>
 			<key>name</key>
 			<string>entity.name.tag.radius</string>
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>([_a-zA-Z-]+)</string>
+			<string>(&lt;[\w|/][^r:|^!|^/r:].*&gt;)</string>
+			<key>name</key>
+			<string>entity.name.tag.other</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>([_a-zA-Z-]+)=</string>
 			<key>name</key>
 			<string>entity.other.attribute-name.radius</string>
 		</dict>
