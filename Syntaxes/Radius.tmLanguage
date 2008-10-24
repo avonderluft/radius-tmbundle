@@ -58,7 +58,7 @@
 		</dict>
 		<dict>
 			<key>begin</key>
-			<string>&lt;[!%]--</string>
+			<string>&lt;[!%]--|&lt;r:comment&gt;</string>
 			<key>captures</key>
 			<dict>
 				<key>0</key>
@@ -68,7 +68,7 @@
 				</dict>
 			</dict>
 			<key>end</key>
-			<string>--%?&gt;</string>
+			<string>--%?&gt;|&lt;/r:comment&gt;</string>
 			<key>name</key>
 			<string>comment.block.radius</string>
 		</dict>
