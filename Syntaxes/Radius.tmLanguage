@@ -18,9 +18,21 @@
 	<array>
 		<dict>
 			<key>match</key>
-			<string>\b(if|while|for|return)\b</string>
+			<string>(if|unless)</string>
 			<key>name</key>
-			<string>keyword.control.untitled</string>
+			<string>keyword.control.radius</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>(r:[-_a-zA-Z0-9:]+)</string>
+			<key>name</key>
+			<string>entity.name.tag.radius</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>([_a-zA-Z-]+)</string>
+			<key>name</key>
+			<string>entity.other.attribute-name.radius</string>
 		</dict>
 		<dict>
 			<key>begin</key>
@@ -28,16 +40,15 @@
 			<key>end</key>
 			<string>"</string>
 			<key>name</key>
-			<string>string.quoted.double.untitled</string>
-			<key>patterns</key>
-			<array>
-				<dict>
-					<key>match</key>
-					<string>\\.</string>
-					<key>name</key>
-					<string>constant.character.escape.untitled</string>
-				</dict>
-			</array>
+			<string>string.quoted.double.radius</string>
+		</dict>
+		<dict>
+			<key>begin</key>
+			<string>'</string>
+			<key>end</key>
+			<string>'</string>
+			<key>name</key>
+			<string>string.quoted.single.radius</string>
 		</dict>
 		<dict>
 			<key>begin</key>
@@ -54,10 +65,6 @@
 			<string>--%?&gt;</string>
 			<key>name</key>
 			<string>comment.block.radius</string>
-		</dict>
-		<dict>
-			<key>include</key>
-			<string>text.html.basic</string>
 		</dict>
 	</array>
 	<key>scopeName</key>
