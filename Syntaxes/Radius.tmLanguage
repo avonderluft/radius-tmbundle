@@ -72,6 +72,10 @@
 			<key>name</key>
 			<string>comment.block.radius</string>
 		</dict>
+		<dict>
+			<key>include</key>
+			<string>text.html.basic</string>
+		</dict>
 	</array>
 	<key>scopeName</key>
 	<string>text.html.radius</string>

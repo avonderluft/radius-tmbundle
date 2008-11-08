@@ -9,7 +9,7 @@
 	<key>scope</key>
 	<string>text.html.radius</string>
 	<key>tabTrigger</key>
-	<string>a</string>
+	<string>at</string>
 	<key>uuid</key>
 	<string>0CD94EE2-83DB-41F6-BE10-88EBE25F195E</string>
 </dict>
