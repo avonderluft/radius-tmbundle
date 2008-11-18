@@ -17,6 +17,10 @@
 	<key>patterns</key>
 	<array>
 		<dict>
+			<key>include</key>
+			<string>text.html.basic</string>
+		</dict>
+		<dict>
 			<key>match</key>
 			<string>(if|unless)</string>
 			<key>name</key>
@@ -71,10 +75,6 @@
 			<string>--%?&gt;|&lt;/r:comment&gt;</string>
 			<key>name</key>
 			<string>comment.block.radius</string>
-		</dict>
-		<dict>
-			<key>include</key>
-			<string>text.html.basic</string>
 		</dict>
 	</array>
 	<key>scopeName</key>
